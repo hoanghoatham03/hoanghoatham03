@@ -8,3 +8,5 @@
 hoanghoatham03/hoanghoatham03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+## Pinned Projects
+- [Sweet Bakery Shop](https://github.com/hoanghoatham123/demodoanweb)
